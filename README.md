@@ -1,3 +1,3 @@
 ## Data Science Specialization
 
-li UsesR
+* UsesR
